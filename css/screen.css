@@ -9598,11 +9598,11 @@ textarea[disabled] {
 
 h1 {
     font-family: "Bebas Neue", Arial, "Helvetica Neue", Helvetica, "Lucida Grande", sans-serif;
-    line-height: 0.00;
+    line-height: 0.10;
     margin: 0;
     padding: 0;
     font-weight: 700;
-    font-size: 5.96rem;
+    font-size: 3.96rem;
     text-transform: uppercase;
     color: #da1e49;
     margin-bottom: 45px
@@ -9629,7 +9629,7 @@ ul+h2 {
 
 h3 {
     font-family: "Bebas Neue", Arial, "Helvetica Neue", Helvetica, "Lucida Grande", sans-serif;
-    line-height: 1.15;
+    line-height: 0.15;
     margin: 0;
     padding: 0;
     font-weight: 700;
@@ -9648,7 +9648,7 @@ ul+h3 {
 
 h4 {
     font-family: "Bebas Neue", Arial, "Helvetica Neue", Helvetica, "Lucida Grande", sans-serif;
-    line-height: 1.15;
+    line-height: 0.15;
     margin: 0;
     padding: 0;
     font-weight: 700;
