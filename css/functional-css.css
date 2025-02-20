@@ -112,7 +112,7 @@
 .text-red {
   color:#da1e49
 }
-.text-red-100 {
+.text-red-400 {
   color:#da1e49
 }
 .text-green-500 {
@@ -494,7 +494,7 @@
   font-weight:400!important
 }
 .font-bold {
-  font-weight:700!important
+  font-weight:400!important
 }
 .tracking-wide {
   letter-spacing:.025em
