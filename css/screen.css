@@ -1,12 +1,12 @@
 body {
-    font-family: 'fonts/roboto/BebasNeuePro-Smebd', sans-serif;
+    font-family: 'BebasNeuePro-Regular.eot;
 }
 @font-face {
-    font-family: 'fonts/roboto/BebasNeueRegular';
-    src: url(fonts/roboto/BebasNeueRegular.eot);
-    src: url(fonts/roboto/BebasNeueRegular.eot?#iefix) format('embedded-opentype'),
-         url(fonts/roboto/BebasNeueRegular.woff) format('woff'),
-         url(fonts/roboto/BebasNeueRegular.ttf) format('truetype'),
+    font-family: 'BebasNeuePro-Regular.eot';
+    src: url(/BebasNeuePro-Regular.eot);
+    src: url(/BebasNeuePro-Regular.eot?#iefix) format('embedded-opentype'),
+         url(/BebasNeuePro-Regular.woff) format('woff'),
+         url(/BebasNeuePro-Regular.ttf) format('truetype'),
          url(fonts/roboto/BebasNeueRegular.svg) format('svg');
 
     font-weight: normal;
