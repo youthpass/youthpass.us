@@ -7950,55 +7950,55 @@ fieldset[disabled] .navbar-inverse .btn-link:hover {
 }
 
 .flag-icon-gb {
-    background-image: url(..gb.svg)
+    background-image: url(/gb.svg);
 }
 
 .flag-icon-gb.flag-icon-squared {
-    background-image: url(..gb.svg)
+    background-image: url(/gb.svg);
 }
 
 .flag-icon-gd {
-    background-image: url(../bundles/youthpasswebsite/flags/4x3/gd.svg)
+    background-image: url(/gd.svg)
 }
 
 .flag-icon-gd.flag-icon-squared {
-    background-image: url(../bundles/youthpasswebsite/flags/1x1/gd.svg)
+    background-image: url(/gd.svg)
 }
 
 .flag-icon-ge {
-    background-image: url(../bundles/youthpasswebsite/flags/4x3/ge.svg)
+    background-image: url(/ge.svg)
 }
 
 .flag-icon-ge.flag-icon-squared {
-    background-image: url(../bundles/youthpasswebsite/flags/1x1/ge.svg)
+    background-image: url(/ge.svg)
 }
 
 .flag-icon-gf {
-    background-image: url(../bundles/youthpasswebsite/flags/4x3/gf.svg)
+    background-image: url(/gf.svg)
 }
 
 .flag-icon-gf.flag-icon-squared {
-    background-image: url(../bundles/youthpasswebsite/flags/1x1/gf.svg)
+    background-image: url(/gf.svg)
 }
 
 .flag-icon-gg {
-    background-image: url(../bundles/youthpasswebsite/flags/4x3/gg.svg)
+    background-image: url(/gg.svg)
 }
 
 .flag-icon-gg.flag-icon-squared {
-    background-image: url(../bundles/youthpasswebsite/flags/1x1/gg.svg)
+    background-image: url(/gg.svg)
 }
 
 .flag-icon-gh {
-    background-image: url(../bundles/youthpasswebsite/flags/4x3/gh.svg)
+    background-image: url(/gh.svg)
 }
 
 .flag-icon-gh.flag-icon-squared {
-    background-image: url(../bundles/youthpasswebsite/flags/1x1/gh.svg)
+    background-image: url(/gh.svg)
 }
 
 .flag-icon-gi {
-    background-image: url(../bundles/youthpasswebsite/flags/4x3/gi.svg)
+    background-image: url(/gi.svg)
 }
 
 .flag-icon-gi.flag-icon-squared {
@@ -13089,19 +13089,19 @@ button:not(.navbar-toggle) i {
 }
 
 .flag-icon-en {
-    background-image: url(..gb.svg)
+    background-image: url(/gb.svg);
 }
 
 .flag-icon-en.flag-icon-squared {
-    background-image: url(..gb.svg)
+    background-image: url(/gb.svg);
 }
 
 .flag-icon-da {
-    background-image: url(..gb.svg)
+    background-image: url(/gb.svg);
 }
 
 .flag-icon-da.flag-icon-squared {
-    background-image: url(..gb.svg)
+    background-image: url(/gb.svg);
 }
 
 .flag-icon-nl_BE,
