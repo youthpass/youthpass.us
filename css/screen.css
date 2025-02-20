@@ -12315,7 +12315,7 @@ button:not(.navbar-toggle) i {
 
 .yp-input-select.yp-form-widget.yp-form-widget.yp-form-widget {
     padding-right: 2em;
-    background-image: url("../bundles/youthpasswebsite/img/icons/fa-angle-down.svg");
+    background-image: url("fa-angle-down.svg");
     background-position: right center;
     background-repeat: no-repeat;
     background-size: 1.5em auto
