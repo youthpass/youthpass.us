@@ -1,3 +1,8 @@
+.icon-right::before {
+    content: "▶";
+    font-size: 20px;
+}
+
 body {
     font-family: 'BebasNeuePro-Smebd', sans-serif;
 }
