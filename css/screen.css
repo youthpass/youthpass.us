@@ -10894,7 +10894,7 @@ select {
 select {
     -webkit-appearance: none;
     appearance: none;
-    background-image: url("../bundles/youthpasswebsite/img/icons/fa-angle-down.svg");
+    background-image: url("..fa-angle-down.svg");
     background-position: right center;
     background-repeat: no-repeat;
     background-size: 18px auto
