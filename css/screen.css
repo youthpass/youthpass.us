@@ -4143,14 +4143,6 @@ th {
     content: "\e260"
 }
 
-* {
-    box-sizing: border-box
-}
-
-:after,
-:before {
-    box-sizing: border-box
-}
 
 html {
     font-size: 10px;
