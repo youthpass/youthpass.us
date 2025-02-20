@@ -9598,7 +9598,7 @@ textarea[disabled] {
 
 h1 {
     font-family: "Bebas Neue", Arial, "Helvetica Neue", Helvetica, "Lucida Grande", sans-serif;
-    line-height: 2.00;
+    line-height: 0.00;
     margin: 0;
     padding: 0;
     font-weight: 700;
@@ -9610,7 +9610,7 @@ h1 {
 
 h2 {
     font-family: "Bebas Neue", Arial, "Helvetica Neue", Helvetica, "Lucida Grande", sans-serif;
-    line-height: 2.15;
+    line-height: 0.15;
     margin: 0;
     padding: 0;
     font-weight: 700;
