@@ -7943,11 +7943,11 @@ fieldset[disabled] .navbar-inverse .btn-link:hover {
 }
 
 .flag-icon-gb {
-    background-image: url(/gb.svg);
+    background-image: url(/gb.png);
 }
 
 .flag-icon-gb.flag-icon-squared {
-    background-image: url(/gb.svg);
+    background-image: url(/gb.png);
 }
 
 .flag-icon-gd {
@@ -13080,19 +13080,19 @@ button:not(.navbar-toggle) i {
 }
 
 .flag-icon-en {
-    background-image: url(/gb.svg);
+    background-image: url(/gb.png);
 }
 
 .flag-icon-en.flag-icon-squared {
-    background-image: url(/gb.svg);
+    background-image: url(/gb.png);
 }
 
 .flag-icon-da {
-    background-image: url(/gb.svg);
+    background-image: url(/gb.png);
 }
 
 .flag-icon-da.flag-icon-squared {
-    background-image: url(/gb.svg);
+    background-image: url(/gb.png);
 }
 
 .flag-icon-nl_BE,
