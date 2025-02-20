@@ -10952,11 +10952,12 @@ input[type=radio]+label:before {
 }
 
 input[type=radio]:checked+label:before {
-    background-image: url("../bundles/youthpasswebsite/img/icons/fa-check-circle.svg");
+    background-image: url("fa-check-circle.svg");
     background-position: center;
     background-repeat: no-repeat;
-    background-size: 14px auto
+    background-size: 14px auto;
 }
+
 
 input[type=radio]:focus {
     outline: 0
