@@ -11,7 +11,7 @@
   font-family:"Bebas Neue";
   src:url("../bundles/youthpasswebsite/fonts/bebas-neue-pro/bebasneuepro-smebd-webfont.woff2") format("woff2"),
   url("../bundles/youthpasswebsite/fonts/bebas-neue-pro/bebasneuepro-smebd-webfont.woff") format("woff");
-  font-weight:700;
+  font-weight:500;
   font-style:normal;
   font-display:swap
 }
