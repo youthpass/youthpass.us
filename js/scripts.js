@@ -1,3 +1,5 @@
+<script type="text/javascript" src="js/scripts.js"></script>
+<script type="text/javascript" src="js/embed.js"></script>
 /*! For license information please see scripts.js.LICENSE.txt */
 (function() {
     var __webpack_modules__ = {
