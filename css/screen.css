@@ -1,6 +1,10 @@
+body {
+    font-family: 'BebasNeuePro-Smebd', sans-serif;
+}
+
 @font-face {
     font-family: 'BebasNeuePro-Smebd';
-    src: url('/bebasneupro-smebd-webfont.woff2') format('woff2');
+    src: url('bebasneupro-smebd-webfont.woff2') format('woff2');
     font-weight: bold;
     font-style: normal;
 }
