@@ -10211,7 +10211,6 @@ th {
     transition: all .3s cubic-bezier(0, 0, 1, 1);
     will-change: transform;
     line-height: 1;
-    position: absolute;
     left: 0;
     right: 0;
     top: 50%;
