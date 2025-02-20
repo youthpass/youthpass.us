@@ -3071,8 +3071,8 @@ th {
 
 @font-face {
     font-family: "Glyphicons Halflings";
-    src: url("../bundles/youthpasswebsite/fonts/bootstrap/glyphicons-halflings-regular.eot");
-    src: url("../bundles/youthpasswebsite/fonts/bootstrap/glyphicons-halflings-regular.eot") format("embedded-opentype"), url("../bundles/youthpasswebsite/fonts/bootstrap/glyphicons-halflings-regular.woff2") format("woff2"), url("../bundles/youthpasswebsite/fonts/bootstrap/glyphicons-halflings-regular.woff") format("woff"), url("../bundles/youthpasswebsite/fonts/bootstrap/glyphicons-halflings-regular.ttf") format("truetype"), url("../bundles/youthpasswebsite/fonts/bootstrap/glyphicons-halflings-regular.svg") format("svg")
+    src: url("/glyphicons-halflings-regular.eot");
+    src: url("/glyphicons-halflings-regular.eot") format("embedded-opentype"), url("/glyphicons-halflings-regular.woff2") format("woff2"), url("/glyphicons-halflings-regular.woff") format("woff"), url("/glyphicons-halflings-regular.ttf") format("truetype"), url("/glyphicons-halflings-regular.svg") format("svg")
 }
 
 .error label:before,
@@ -7423,19 +7423,19 @@ fieldset[disabled] .navbar-inverse .btn-link:hover {
 }
 
 .flag-icon-as {
-    background-image: url(../bundles/youthpasswebsite/flags/4x3/as.svg)
+    background-image: url(../as.svg)
 }
 
 .flag-icon-as.flag-icon-squared {
-    background-image: url(../bundles/youthpasswebsite/flags/1x1/as.svg)
+    background-image: url(../as.svg)
 }
 
 .flag-icon-at {
-    background-image: url(../bundles/youthpasswebsite/flags/4x3/at.svg)
+    background-image: url(../at.svg)
 }
 
 .flag-icon-at.flag-icon-squared {
-    background-image: url(../bundles/youthpasswebsite/flags/1x1/at.svg)
+    background-image: url(../at.svg)
 }
 
 .flag-icon-au {
@@ -7643,7 +7643,7 @@ fieldset[disabled] .navbar-inverse .btn-link:hover {
 }
 
 .flag-icon-ca.flag-icon-squared {
-    background-image: url(../bundles/youthpasswebsite/flags/1x1/ca.svg)
+    background-image: url(../ca.svg)
 }
 
 .flag-icon-cc {
@@ -13524,7 +13524,7 @@ dd+.yp-summary-list__key {
 
 @media (min-width:768px) {
     .start #page {
-        background-image: url("../bundles/youthpasswebsite/img/startpage/stage/youthpass-welcome.png");
+        background-image: url("../youthpass-welcome.png");
         background-repeat: no-repeat
     }
 }
@@ -13722,7 +13722,7 @@ dd+.yp-summary-list__key {
 
 @media (min-width:600px) {
     .infografik .position-12to9 {
-        background-image: url("../bundles/youthpasswebsite/img/learning-process-arrow-1.svg")
+        background-image: url("../learning-process-arrow-1.svg")
     }
 }
 
