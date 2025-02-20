@@ -2,18 +2,18 @@ body {
     font-family: 'BebasNeuePro-Smebd', sans-serif;
 }
 @font-face {
-    font-family: 'BebasNeueRegular';
-    src: url(BebasNeueRegular.eot);
-    src: url(BebasNeueRegular.eot?#iefix) format('embedded-opentype'),
-         url(BebasNeueRegular.woff) format('woff'),
-         url(BebasNeueRegular.ttf) format('truetype'),
-         url(BebasNeueRegular.svg) format('svg');
+    font-family: 'fonts/roboto/BebasNeueRegular';
+    src: url(fonts/roboto/BebasNeueRegular.eot);
+    src: url(fonts/roboto/BebasNeueRegular.eot?#iefix) format('embedded-opentype'),
+         url(fonts/roboto/BebasNeueRegular.woff) format('woff'),
+         url(fonts/roboto/BebasNeueRegular.ttf) format('truetype'),
+         url(fonts/roboto/BebasNeueRegular.svg) format('svg');
 
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
-    font-family: 'BebasNeuePro-Smebd';
+    font-family: 'fonts/roboto/BebasNeuePro-Smebd';
     src: url("fonts/roboto/stylesheet.css")
  format('woff2');
     font-weight: bold;
