@@ -1,3 +1,5 @@
+<script type="text/javascript" src="js/scripts.js"></script>
+<script type="text/javascript" src="js/embed.js"></script>
 ! function() {
     var e = {
             609: function(e, t, n) {
