@@ -15537,7 +15537,7 @@ div#statistics-preview strong {
     height: 1em;
     margin-left: 3px;
     background-repeat: no-repeat;
-    background-image: url("../bundles/youthpasswebsite/img/icons/font-awesome-5.14.4/solid/caret-down.svg")
+    background-image: url("/caret-down.svg")
 }
 
 .yp-button-disclosure__popup {
