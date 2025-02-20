@@ -12498,7 +12498,7 @@ button:not(.navbar-toggle) i {
 
 .yp-multiple-select__option.option-current,
 .yp-multiple-select__option:hover {
-    background-image: url(".caret-right.svg");
+    background-image: url("caret-right.svg");
     background-position: .4em center;
     background-repeat: no-repeat;
     background-size: .35em auto;
