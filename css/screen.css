@@ -9520,7 +9520,6 @@ body {
     line-height: 1.5;
     font-size: 1.747rem;
     font-size: max(16px, 1.747rem);
-    height: 100%;
     color: #222;
     background-color: #fff
 }
