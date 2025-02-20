@@ -11,7 +11,7 @@ body {
 
 @font-face {
     font-family: 'BebasNeuePro-Smerg';
-    src: url('/bebasneupro-smerg-webfont.woff2') format('woff2');
+    src: url('bebasneupro-smerg-webfont.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
 }
