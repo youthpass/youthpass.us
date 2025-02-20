@@ -2722,7 +2722,7 @@ body {
 
 @font-face {
     font-family: "Bebas Neue";
-    src: url("../bundles/youthpasswebsite/fonts/bebas-neue-pro/bebasneuepro-smerg-webfont.woff2") format("woff2"), url("../bundles/youthpasswebsite/fonts/bebas-neue-pro/bebasneuepro-smerg-webfont.woff") format("woff");
+    src: url("/bebasneuepro-smerg-webfont.woff2") format("woff2"), url("/bebasneuepro-smerg-webfont.woff") format("woff");
     font-weight: 400;
     font-style: normal;
     font-display: swap
@@ -2730,7 +2730,7 @@ body {
 
 @font-face {
     font-family: "Bebas Neue";
-    src: url("../bundles/youthpasswebsite/fonts/bebas-neue-pro/bebasneuepro-smebd-webfont.woff2") format("woff2"), url("../bundles/youthpasswebsite/fonts/bebas-neue-pro/bebasneuepro-smebd-webfont.woff") format("woff");
+    src: url("/bebasneuepro-smebd-webfont.woff2") format("woff2"), url("/bebasneuepro-smebd-webfont.woff") format("woff");
     font-weight: 700;
     font-style: normal;
     font-display: swap
@@ -15108,7 +15108,7 @@ div#statistics-preview strong {
 
 @font-face {
     font-family: "Bebas Neue";
-    src: url("../bundles/youthpasswebsite/fonts/bebas-neue-pro/bebasneuepro-smerg-webfont.woff2") format("woff2"), url("../bundles/youthpasswebsite/fonts/bebas-neue-pro/bebasneuepro-smerg-webfont.woff") format("woff");
+    src: url("/bebasneuepro-smerg-webfont.woff2") format("woff2"), url("/bebasneuepro-smerg-webfont.woff") format("woff");
     font-weight: 400;
     font-style: normal;
     font-display: swap
@@ -15116,7 +15116,7 @@ div#statistics-preview strong {
 
 @font-face {
     font-family: "Bebas Neue";
-    src: url("../bundles/youthpasswebsite/fonts/bebas-neue-pro/bebasneuepro-smebd-webfont.woff2") format("woff2"), url("../bundles/youthpasswebsite/fonts/bebas-neue-pro/bebasneuepro-smebd-webfont.woff") format("woff");
+    src: url("/bebasneuepro-smebd-webfont.woff2") format("woff2"), url("/bebasneuepro-smebd-webfont.woff") format("woff");
     font-weight: 700;
     font-style: normal;
     font-display: swap
