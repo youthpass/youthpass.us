@@ -1,13 +1,13 @@
 @font-face {
     font-family: 'BebasNeuePro-Smebd';
-    src: url('../fonts/bebasneupro-smebd-webfont.woff2') format('woff2');
+    src: url('/bebasneupro-smebd-webfont.woff2') format('woff2');
     font-weight: bold;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'BebasNeuePro-Smerg';
-    src: url('../fonts/bebasneupro-smerg-webfont.woff2') format('woff2');
+    src: url('/bebasneupro-smerg-webfont.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
 }
