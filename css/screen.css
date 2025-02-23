@@ -7431,15 +7431,15 @@ fieldset[disabled] .navbar-inverse .btn-link:hover {
 }
 
 .flag-icon-au {
-    background-image: url(../bundles/youthpasswebsite/flags/4x3/au.svg)
+    background-image: url(../au.svg)
 }
 
 .flag-icon-au.flag-icon-squared {
-    background-image: url(../bundles/youthpasswebsite/flags/1x1/au.svg)
+    background-image: url(../au.svg)
 }
 
 .flag-icon-aw {
-    background-image: url(../bundles/youthpasswebsite/flags/4x3/aw.svg)
+    background-image: url(../aw.svg)
 }
 
 .flag-icon-aw.flag-icon-squared {
@@ -9359,27 +9359,27 @@ fieldset[disabled] .navbar-inverse .btn-link:hover {
 }
 
 .flag-icon-es-ct {
-    background-image: url(../bundles/youthpasswebsite/flags/4x3/es-ct.svg)
+    background-image: url(../es-ct.svg)
 }
 
 .flag-icon-es-ct.flag-icon-squared {
-    background-image: url(../bundles/youthpasswebsite/flags/1x1/es-ct.svg)
+    background-image: url(../es-ct.svg)
 }
 
 .flag-icon-es-ga {
-    background-image: url(../bundles/youthpasswebsite/flags/4x3/es-ga.svg)
+    background-image: url(../es-ga.svg)
 }
 
 .flag-icon-es-ga.flag-icon-squared {
-    background-image: url(../bundles/youthpasswebsite/flags/1x1/es-ga.svg)
+    background-image: url(../es-ga.svg)
 }
 
 .flag-icon-eu {
-    background-image: url(../bundles/youthpasswebsite/flags/4x3/eu.svg)
+    background-image: url(../eu.svg)
 }
 
 .flag-icon-eu.flag-icon-squared {
-    background-image: url(../bundles/youthpasswebsite/flags/1x1/eu.svg)
+    background-image: url(../eu.svg)
 }
 
 .flag-icon-gb-eng {
