@@ -2111,7 +2111,7 @@
                         return this.slideToPercent(this.sliderPercentage + 10), !1
                     },
                     buildHtml: function(t, e, i, o, r, s) {
-                        var a = n('<div class="logo-size-preview-container col-md-offset-4"><div class="logo-size-preview"><div class="organisation-signature"><img class="resized-image" src="' + i + '" alt="Resized Image" /><img class="signer" src="/bundles/youthpasswebsite/img/webtool/image-resize-signer.gif" alt="Signature" /></div></div></div>'),
+                        var a = n('<div class="logo-size-preview-container col-md-offset-4"><div class="logo-size-preview"><div class="organisation-signature"><img class="resized-image" src="' + i + '" alt="Resized Image" /><img class="signer" src="/image-resize-signer.gif" alt="Signature" /></div></div></div>'),
                             l = n('<div class="logo-size-slider flex flex-wrap items-center"><button type="button" class="button slider-btn smaller js-image-resize-smaller" aria-label="smaller"><span class="slider-btn-icon" aria-hidden="true"></span></button><div class="slider"><div class="slide"></div></div><button type="button" class="button slider-btn larger js-image-resize-larger" aria-label="larger"><span class="slider-btn-icon" aria-hidden="true"></span></button></div>'),
                             u = n('<div class="logo-size-tools clear-left md:clear-none mb-400">'),
                             c = n('<div class="flex flex-wrap justify-between items-center">');
