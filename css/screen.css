@@ -7,14 +7,14 @@ body {
     src: url(/BebasNeuePro-Regular.eot?#iefix) format('embedded-opentype'),
          url(/BebasNeuePro-Regular.woff) format('woff'),
          url(/BebasNeuePro-Regular.ttf) format('truetype'),
-         url(fonts/roboto/BebasNeueRegular.svg) format('svg');
+         url(/BebasNeueRegular.svg) format('svg');
 
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'fonts/roboto/BebasNeuePro-Smebd';
-    src: url("fonts/roboto/stylesheet.css")
+    src: url("/stylesheet.css")
  format('woff2');
     font-weight: bold;
     font-style: normal;
