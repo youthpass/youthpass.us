@@ -13,7 +13,7 @@ body {
     font-style: normal;
 }
 @font-face {
-    font-family: 'fonts/roboto/BebasNeuePro-Smebd';
+    font-family: '/BebasNeuePro-Smebd';
     src: url("/stylesheet.css")
  format('woff2');
     font-weight: bold;
